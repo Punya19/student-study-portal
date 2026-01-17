@@ -6,9 +6,7 @@ A **centralized platform** to help students manage study materials, track progre
 
 ## 🔹 Features
 - Centralized platform for study materials.  
-- User authentication and role-based access.  
-- Upload and download study resources.  
-- Track progress and organize subjects.  
+- User authentication and role-based access.     
 - Responsive and user-friendly interface.
 
 ---
